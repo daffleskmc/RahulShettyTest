@@ -55,13 +55,13 @@
     </dependency>
   </dependencies>
 
-  <distributionManagement>
-    <snapshotRepository>
-      <id>snapshots</id>
-      <name>a0q4h1vnhlhp3-artifactory-primary-0-snapshots</name>
-      <url>https://rahulshettyacademy.jfrog.io/artifactory/libs-snapshot-local</url>
-    </snapshotRepository>
-  </distributionManagement>
+    <distributionManagement>
+        <snapshotRepository>
+            <id>snapshots</id>
+            <name>a0wrqpu6i1jdd-artifactory-primary-0-snapshots</name>
+            <url>https://daffles.jfrog.io/artifactory/Main-libs-snapshot-local</url>
+        </snapshotRepository>
+    </distributionManagement>
 
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
